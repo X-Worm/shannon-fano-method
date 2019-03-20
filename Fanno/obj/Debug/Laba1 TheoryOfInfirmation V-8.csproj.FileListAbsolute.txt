@@ -1,0 +1,10 @@
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\bin\Debug\Laba1 TheoryOfInfirmation V-8.exe.config
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\bin\Debug\Laba1 TheoryOfInfirmation V-8.exe
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\bin\Debug\Laba1 TheoryOfInfirmation V-8.pdb
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1 TheoryOfInfirmation V-8.csprojAssemblyReference.cache
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1_TheoryOfInfirmation_V_8.Form1.resources
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1_TheoryOfInfirmation_V_8.Properties.Resources.resources
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1 TheoryOfInfirmation V-8.csproj.GenerateResource.cache
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1 TheoryOfInfirmation V-8.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1 TheoryOfInfirmation V-8.exe
+C:\Users\Василь\source\repos\Laba1 TheoryOfInfirmation V-8\Laba1 TheoryOfInfirmation V-8\obj\Debug\Laba1 TheoryOfInfirmation V-8.pdb
